@@ -1,0 +1,20 @@
+How the simulator works:
+
+start with the preset sliders and adjust the slider to adjust the preset values (they are currently hardcoded for the json files)
+
+click on preset to toggle off preset sliders and get to the regular ones. These you can slide to get different sonfication outputs, which differ based on the presetValue.
+
+click on shoulder, wrist, and back buttons to activate the sliders. There will be no audio if they are not activated. You can also press them again to deactivate them.
+
+Adjust the straightness slider to change the rate from the preset. This is done by changing the rate of the input using a static. which is hooked up to a soundPlayer.
+
+Adjust the levelnessSlider to change how sharp or  flat the audio is from the preset. This is done using a filter that is hooked up to the gain and wavePlayer.
+
+Adjust the heightSlider to change the volume from the preset. quieter is closer to preset. This is done using a gain change.
+
+Adjust the alignment Slider to change the  volume from the preset. quieter is closer to preset and vice versa. This is done by hooking up the gain to a glide and the player to the gain and adjusting the gain.
+
+The expansion slider autoclicks when the expansion is at the right spot. It it done using a gain that is hooked up to a soundPlayer.
+
+click on the "shoot" button to activate tts. This is supposed to be used for when everything matches the preset values. 
+

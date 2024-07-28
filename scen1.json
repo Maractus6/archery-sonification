@@ -1,0 +1,286 @@
+
+[
+{
+    "NotificationType": "Wrist",
+    "straightness": 1.0,
+    "levelness": 1.0,
+    "priority": 1,
+    "timestamp": 1000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 100,
+    "priority": 2,
+    "timestamp": 1500
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": 1.0,
+    "levelness": 1.0,
+    "priority": 1,
+    "timestamp": 2000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 3.0,
+    "alignment": 80,
+    "priority": 2,
+    "timestamp": 2500
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": 1.0,
+    "levelness": 0.0,
+    "priority": 1,
+    "timestamp": 3000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 100,
+    "priority": 2,
+    "timestamp": 3500
+},
+
+
+{
+    "NotificationType": "Wrist",
+    "straightness": 2.0,
+    "levelness": 0.0,
+    "priority": 1,
+    "timestamp": 4000
+},
+
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 90,
+    "priority": 2,
+    "timestamp": 4500
+}
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 90,
+    "priority": 2,
+    "timestamp": 5000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 5.0,
+    "alignment": 80,
+    "priority": 2,
+    "timestamp": 5500
+},
+
+{
+
+
+    "NotificationType": "Wrist",
+    "straightness": 1.0,
+    "levelness": 0.0,
+    "priority": 1,
+    "timestamp": 6000
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": -1.0,
+    "levelness": 0.0,
+    "priority": 1,
+    "timestamp": 6500
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 4.0,
+    "alignment": 80,
+    "priority": 2,
+    "timestamp": 7000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 3.0,
+    "alignment": 70,
+    "priority": 2,
+    "timestamp": 7500
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": -2.0,
+    "levelness": 1.0,
+    "priority": 1,
+    "timestamp": 8000
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": -2.0,
+    "levelness": 2.0,
+    "priority": 1,
+    "timestamp": 8500
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": "-3.0",
+    "levelness": "2.0",
+    "priority": "1",
+    "timestamp": "9000"
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": -2.0,
+    "levelness": 3.0,
+    "priority": 1,
+    "timestamp": 9500
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": -1.0,
+    "levelness": 3.0,
+    "priority": 1,
+    "timestamp": 10000
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": -1.0,
+    "levelness": 3.0,
+    "priority": 1,
+    "timestamp": 10500
+},
+
+{
+    "NotificationType": "Wrist",
+    "straightness": 0.0,
+    "levelness": 3.0,
+    "priority": 1,
+    "timestamp": 11000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 5.0,
+    "alignment": 70,
+    "priority": 2,
+    "timestamp": "11500"
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 3.0,
+    "alignment": 60,
+    "priority": 2,
+    "timestamp": "12000"
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 60,
+    "priority": 2,
+    "timestamp": "12500"
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 50,
+    "priority": 2,
+    "timestamp": 13000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 40,
+    "priority": 2,
+    "timestamp": 13500
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 30,
+    "priority": 2,
+    "timestamp": 14000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 1.0,
+    "alignment": 20,
+    "priority": 2,
+    "timestamp": 14500
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 10.0,
+    "alignment": 10,
+    "priority": 2,
+    "timestamp": "15000"
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 1.0,
+    "alignment": 10,
+    "priority": 2,
+    "timestamp": "15500"
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 1.0,
+    "alignment": 0,
+    "priority": 2,
+    "timestamp": 16000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 0,
+    "priority": 2,
+    "timestamp": 16500
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 1.0,
+    "alignment": 10,
+    "priority": 2,
+    "timestamp": 17000
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 2.0,
+    "alignment": 0,
+    "priority": 2,
+    "timestamp": 17500
+},
+
+{
+    "NotificationType": "Shoulder",
+    "height": 0.0,
+    "alignment": 0,
+    "priority": 2,
+    "timestamp": 17500
+}
+]
